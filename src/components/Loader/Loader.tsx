@@ -5,7 +5,7 @@ import { Grid } from 'react-loader-spinner';
 import './Loader.scss';
 
 // We declare the functional component Loader
-export const Loader = () => {
+export const Loader: React.FC = () => {
   return (
     <div className="loader">
       {/* Render the Grid component with the specified size and color parameters */}

@@ -5,7 +5,7 @@ import { Homepage } from './pages/Homepage';
 import { HeroDetails } from './pages/HeroDetails';
 import './App.css';
 
-export const App = () => {
+export const App: React.FC = () => {
   return (
     <Routes>
       <Route path="/" element={<Homepage />} />

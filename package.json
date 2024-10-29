@@ -14,13 +14,21 @@
     "@xyflow/react": "^12.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "react-router-dom": "^6.27.0"
+=======
+    "react-loader-spinner": "^6.1.6",
+    "react-paginate": "^8.2.0"
+>>>>>>> c890bd4 (fix: refactoring code in components)
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
     "@testing-library/jest-dom": "^6.0.0",
     "@testing-library/react": "^14.0.0",
+<<<<<<< HEAD
     "@types/jest": "^29.5.14",
+=======
+>>>>>>> c890bd4 (fix: refactoring code in components)
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "@types/react-router-dom": "^5.3.3",
